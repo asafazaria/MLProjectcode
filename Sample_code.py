@@ -16,6 +16,6 @@ def foo(example):
 def bar(srting):
     print 'another string'
     
-    
+# Now there are changes in the master    
 if __name__ == '__main__':
     pass
