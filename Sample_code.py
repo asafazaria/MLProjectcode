@@ -17,5 +17,6 @@ def bar(srting):
     print 'another string'
     
 # more changes
+# and some more
 if __name__ == '__main__':
     pass
