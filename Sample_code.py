@@ -10,5 +10,9 @@ Created on Oct 30, 2014
 # and some more changes I make to the develop branch
 # now I am developing in a whole different branch
 
+def foo(example):
+    print 'example'
+    
+    
 if __name__ == '__main__':
     pass
