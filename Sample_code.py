@@ -13,6 +13,9 @@ Created on Oct 30, 2014
 def foo(example):
     print 'example'
     
+def bar(srting):
+    print 'another string'
+    
     
 if __name__ == '__main__':
     pass
