@@ -18,5 +18,6 @@ def bar(srting):
     
 # more changes
 # and some more
+# and I am the last change to make the merge more difficult
 if __name__ == '__main__':
     pass
